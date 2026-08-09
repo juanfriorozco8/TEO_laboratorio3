@@ -25,6 +25,8 @@ Para mostrar la ejecución completa y abrir los árboles en pantalla:
 python3 laboratorio3.py --mostrar
 ```
 
+[Video de demostración del Problema 1](https://youtu.be/0yyOZQpkOGw)
+
 ## Problema 2
 
 Se utilizó el Lema de Arden para encontrar la expresión regular representada por el autómata proporcionado. Se plantearon y simplificaron las ecuaciones correspondientes a sus estados hasta obtener `(ε|0)(ε|1)0*`. El procedimiento completo se encuentra entregado en problema2.pdf (branch 2).
